@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/Laba_02.iml
+/.idea/
